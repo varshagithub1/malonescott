@@ -5,6 +5,7 @@
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
       "type": "free"
+   
    },
    {
       "id": "2",
@@ -19,5 +20,13 @@
       "platform": "Google",
       "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
       "type": "free"
+   },
+    {
+      "id": "4",
+      "courseName": "Free graphic designing Course",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+      "type": "free"
+   
    },
 ]
