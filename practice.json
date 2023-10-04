@@ -5,7 +5,6 @@
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
       "type": "free"
-   
    },
    {
       "id": "2",
@@ -26,7 +25,13 @@
       "courseName": "Free graphic designing Course",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
-      "type": "free"
-   
+      "type": "free"  
    },
-]
+    {
+      "id": "5",
+      "courseName": "Google Cloud Computing Course",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+      "type": "free"
+   }
+
